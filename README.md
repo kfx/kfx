@@ -12,4 +12,4 @@ I'm offering supervision for undergraduate and master thesis projects on DeFi / 
 
 ### Contacts 📫
 
-To reach me, email *kfx2 (at) proton (dot) me* or contact on Mastodon: @kfx\@cryptodon.lol
+To reach me, email *kfx2 (at) proton (dot) me* or contact on Mastodon: https://cryptodon.lol/@kfx
