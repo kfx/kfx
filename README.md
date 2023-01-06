@@ -1,4 +1,4 @@
-I'm a researcher in academia. In my free time I sometimes explore web3 — [Uniswap](https://github.com/atiselsts/uniswap-v3-liquidity-math) and others.
+I'm a researcher in academia. In my free time I sometimes explore web3 — Uniswap and others.
 
 ### Collaboration 🤝
 
@@ -12,4 +12,4 @@ I'm offering supervision for undergraduate and master thesis projects on DeFi / 
 
 ### Contacts 📫
 
-To reach me, email *kfx2 (at) proton (dot) me* or contact on Mastodon: @kfx@cryptodon.lol
+To reach me, email *kfx2 (at) proton (dot) me* or contact on Mastodon: @kfx\@cryptodon.lol
