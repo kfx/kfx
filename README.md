@@ -1,7 +1,5 @@
 I'm a researcher in academia. In my free time I sometimes explore web3 — [Uniswap](https://github.com/atiselsts/uniswap-v3-liquidity-math) and others.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kfx)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Collaboration 🤝
 
 Get in touch if you're interested discussing a research & development projects on:
